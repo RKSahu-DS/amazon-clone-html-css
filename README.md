@@ -39,6 +39,9 @@ amazon-clone-html-css/
 ```
 
 ---
+## 🌐 Live Demo
+
+🔗 https://rksahu-ds.github.io/amazon-clone-html-css/
 
 ## 📸 Preview
 ![Amazon Clone](homepage.png)
